@@ -1,0 +1,22 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="both.stl" filename="both.stl">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="transmitter.stl" filename="transmitter.stl">
+   <MLMatrix44>
+0.961372 -0.205995 -0.182564 0 
+0.264405 0.875486 0.404493 0 
+0.0765084 -0.437139 0.896134 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
